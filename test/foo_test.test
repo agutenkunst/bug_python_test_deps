@@ -1,0 +1,6 @@
+<launch>
+
+  <!-- test node -->
+  <test test-name="foo_test" pkg="bug_python_test_deps" type="foo_test.py"/>
+
+</launch>
